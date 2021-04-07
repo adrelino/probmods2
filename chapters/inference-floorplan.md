@@ -4,14 +4,14 @@ title: Floorplan Inference
 description: Finding latent structure that renders to a target floorplan.
 chapter_num: 7.5
 custom_js:
-- assets/js/box2d.js
-- assets/js/physics.js
-- assets/js/draw.js
-- assets/js/custom.js
-- assets/js/paper-full.js
-- assets/js/floorplan.js
+- ../assets/js/box2d.js
+- ../assets/js/physics.js
+- ../assets/js/draw.js
+- ../assets/js/custom.js
+- ../assets/js/paper-full.js
+- ../assets/js/floorplan.js
 custom_css:
-- /assets/css/draw.css
+- ../assets/css/draw.css
 ---
 
 Portions of the following were adapted 
