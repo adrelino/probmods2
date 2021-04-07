@@ -2,9 +2,9 @@
 layout: default
 title: Probabilistic Models of Cognition - 2nd Edition
 custom_js:
-- assets/js/index.js
+- ../assets/js/index.js
 custom_css:
-- assets/css/index.css
+- ../assets/css/index.css
 ---
 
 <div id="header">
